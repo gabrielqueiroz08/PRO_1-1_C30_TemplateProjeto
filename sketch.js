@@ -88,6 +88,7 @@ function handleButtonPress() {
   setTimeout(() => {
     bridge.break();
   }, 5);*/
+  
 
   jointLink.dettach();
   setTimeout(() => {
